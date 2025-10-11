@@ -1,4 +1,4 @@
-## 🌟 Wellington Kwati Taureka
+## 🌟 Wellington Taureka
 **AI Dabbler**
 
 ### 🚀 Current Mission
