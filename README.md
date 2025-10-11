@@ -7,8 +7,8 @@ Building the mathematical foundation for the age of understanding through:
 - The Semantic Substrate Engine is the foundation for all technology that appears in this GitHub
 
 ### 🔬 Core Discovery
-**The Universal Physics Hierarchy**
 - Biblical attributes as mathematical primitives
+- The Universal Physics Hierarchy
 - Mathematical proof of reality's semantic substrate
 - Four-dimensional coordinate system for meaning quantification
 - Universal Anchor Point principles for system stability
