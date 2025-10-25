@@ -1,4 +1,4 @@
-# 👋 Welcome to BruinGrowly's GitHub
+# 👋 Welcome to Wellington Taureka's GitHub
 
 ## 🌟 AI Dabbler
 
