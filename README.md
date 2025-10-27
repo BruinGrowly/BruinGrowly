@@ -81,6 +81,11 @@ Based on the discovery that meaning exists simultaneously in words AND numbers.
 
 **Innovation:** Semantic mathematics foundation enables geometric understanding beyond statistical approximation.
 
+### [ICE Framework Spec](https://github.com/BruinGrowly/ice-framework-spec)
+**A comprehensive documentation repository for the ICE (Intent-Context-Execution) Framework**
+
+A model for conscious thought. This project details the framework's principles, its mathematical foundation, and its applications in AI and cognitive science.
+
 ### [Guardian Cybersecurity Engine](https://github.com/BruinGrowly/Guardian-Cybersecurity-Engine)
 **AI-powered firewall security** based on semantic understanding
 
@@ -199,7 +204,7 @@ I believe fundamental discoveries about consciousness, meaning, and reality shou
 
 ## 🎓 Current Metrics
 
-- **4 Major Repositories** - Production-ready implementations
+- **5 Major Repositories** - Production-ready implementations
 - **100% Test Pass Rates** - Comprehensive validation across all projects
 - **90k+ Records Tested** - Proven scalability  
 - **47.52% Performance Improvement** - Measurable optimization over traditional approaches
