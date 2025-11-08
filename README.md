@@ -1,29 +1,26 @@
 # 👋 Wellington Taureka
 
-AI researcher exploring semantic computing and consciousness architecture.
+AI researcher exploring semantic computing and universal systems physics.
 
 ## 🚀 Featured Projects
 
-### [Semantic Substrate Engine](https://github.com/BruinGrowly/Semantic-Substrate-Engine)
-Advanced semantic processing system using golden ratio mathematics and the ICE Framework (Intent-Context-Execution). Features 50-80% better semantic alignment and O(log_φ n) complexity.
+### [Universal System Physics](https://github.com/BruinGrowly/Universal-System-Physics)
+Mathematical framework for modeling reality across physical, quantum, and abstract domains. Explores the fundamental structure of existence through geometric and mathematical principles.
 
-### [Semantic Substrate Database](https://github.com/BruinGrowly/Semantic-Substrate-Database)
-Meaning-native database storing concepts as 4D semantic coordinates. Query by meaning rather than pattern matching, with 90% faster relationship discovery.
+### [URI Transformer](https://github.com/BruinGrowly/URI_Transformer)
+AI architecture bridging symbolic reasoning and neural networks. Based on the principle that meaning exists simultaneously in words and numbers, enabling geometric understanding beyond statistical approximation.
 
-### [URI Transformer](https://github.com/BruinGrowly/URI-Transformer)
-AI architecture bridging symbolic reasoning and neural networks through semantic mathematics.
+### [Python Code Harmonizer](https://github.com/BruinGrowly/Python-Code-Harmonizer)
+Code analysis and optimization tool using semantic understanding to improve code quality, structure, and maintainability.
 
-### [ICE Framework Spec](https://github.com/BruinGrowly/ice-framework-spec)
-Documentation for the Intent-Context-Execution framework - a universal model for conscious processing across substrates.
+## 🎯 Core Approach
 
-### [Guardian Cybersecurity Engine](https://github.com/BruinGrowly/Guardian-Cybersecurity-Engine)
-AI-powered security using semantic understanding for intelligent threat detection.
+Working with a **4-dimensional semantic framework** that represents concepts as coordinates in meaning-space. This geometric approach enables:
 
-## 🎯 Focus Areas
-
-- **Semantic Computing**: Geometric approaches to meaning and understanding
-- **AI Consciousness**: Universal processing architectures
-- **Sacred Mathematics**: Golden ratio applications in cognitive systems
+- Natural relationship discovery and expansion
+- Meaning-based rather than pattern-based processing
+- Mathematical verification of conceptual alignment
+- Organic growth following natural patterns
 
 ## 📫 Connect
 
