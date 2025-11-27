@@ -1,6 +1,6 @@
 # 👋 Wellington Taureka
 
-AI researcher exploring semantic computing and universal systems physics.
+AI Dabbler
 
 ---
 
