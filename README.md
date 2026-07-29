@@ -44,5 +44,4 @@ security, performance, and visibility.
 
 ## About
 
-I enjoy turning unusual ideas into working software. My public repositories
-focus on tools people can run, inspect, and build upon.
+Building tools from unusual ideas to help people and AI
