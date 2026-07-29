@@ -45,3 +45,7 @@ security, performance, and visibility.
 ## About
 
 Building tools from unusual ideas to help people and AI
+
+## Connect
+
+[![GitHub followers](https://img.shields.io/github/followers/BruinGrowly?style=social)](https://github.com/BruinGrowly)
